@@ -86,10 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - del    delete selected row
 - F2 Edit Cell
 
-![UI](https://github.com/Isayso/PlaylistEditorTV/blob/master/bitcoin/qrcode-1EU-Github.png) bc1q0cte24tuax2kx25kypeqtewk73rvggqtqw9pzc
-
-
-![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/PlaylistEditorTV/v1.7.3/total)
+![UI](https://github.com/Isayso/PlaylistEditorTV/blob/master/bitcoin/qrcode-1EU-Github.png) bc1q0cte24tuax2kx25kypeqt
 
 
 
